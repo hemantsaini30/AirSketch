@@ -21,8 +21,8 @@ AirSketch is a real-time, gesture-powered drawing app using OpenCV and MediaPipe
 ## 📁 Folder Structure
 
 AirSketch/
-|- freesketch.py   # Main Python script for air drawing
-|- README.md       # Project info
+- freesketch.py   # Main Python script for air drawing
+- README.md       # Project info
 
 ---
 
