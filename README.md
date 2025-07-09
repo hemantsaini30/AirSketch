@@ -3,7 +3,7 @@
 **Draw in the air using just your fingertip and a webcam!**  
 AirSketch is a real-time, gesture-powered drawing app using OpenCV and MediaPipe that captures your hand movements and translates them into beautiful on-screen sketches — no stylus required.
 
-🌐 **Live Demo (if hosted)**: _Coming Soon_
+
 
 ---
 
